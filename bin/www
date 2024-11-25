@@ -7,7 +7,7 @@
 import 'dotenv/config';
 import http from 'http';
 import debug from 'debug';
-import app from '../app.js';
+import app from '../index.js';
 
 debug('postshot:server');
 
