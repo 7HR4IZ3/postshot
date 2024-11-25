@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "nodemon ./bin/www localhost 8080"
+    "start": "nodemon ./bin/www localhost 8080",
+    "build": ""
   },
   "dependencies": {
     "@types/express": "^5.0.0",
